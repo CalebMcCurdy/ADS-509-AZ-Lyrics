@@ -37,7 +37,7 @@ Assignment Materials:
 * [Tokenization, Normalization, and Descriptive Statistics Repository](https://github.com/37chandler/ads-tm-token-norm)
 * M1 Assignment Data.zip
 
-## ADS 509: Module 3- Group Comparison
+# ADS 509: Module 3- Group Comparison
 
 The task of comparing two groups of text is fundamental to textual analysis. There are innumerable applications: survey respondents from different segments of customers, speeches by different political parties, words used in Tweets by different constituencies, etc. In this assignment you will build code to effect comparisons between groups of text data, using the ideas learned in reading and lecture.   
 
